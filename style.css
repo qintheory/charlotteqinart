@@ -1,0 +1,21 @@
+.node {
+  cursor: pointer;
+/*
+  stroke: #3182bd;
+  stroke-width: 1.5px;
+*/
+}
+
+.link {
+  fill: none;
+  stroke: #BFC9CA;
+  stroke-width: 0.5px;
+}
+
+.text {
+  font-family: monospace;
+}
+
+body {
+    background-color: #F4F6F6;
+}

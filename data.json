@@ -1,0 +1,109 @@
+{
+ "name": "CQ",
+ "size": 18000,    
+ "children": [
+  {
+   "name": "nature",
+   "children": [
+    {
+     "name": "Water",
+     "children": [
+      {"name": "Shrines of River Gods", "size": 3938},
+      {"name": "Water: Intersection of Science an Mysticism", "size": 3812}
+     ]
+    },
+    {
+     "name": "Biomimicry",
+     "children": [
+      {"name": "Morphosis", "size": 3534}
+     ]
+    }
+   ]
+  },
+  {     
+    "name": "physics",
+    "size": 2000,  
+    "children": [
+    {
+        "name": "art", 
+        "size": 7000,
+        "children": [
+            {
+                "name": "painting with light", 
+                "size": 6000
+            }, 
+            {
+                "name": "Light Cone", 
+                "size": 6000
+            }
+        ]   
+    },
+    {
+        "name": "making things happen", 
+        "size": 5000, 
+        "children": [
+            {
+                "name": "Science x Design", 
+                "size": 3000
+            }
+        ]
+    }   
+    ]  
+  },
+  {     
+    "name": "emotions",
+    "children": [
+    {
+    "name": "mindscapes"
+    },
+    {
+    "name": "eFlock"
+    }
+    ]  
+  },
+  {     
+    "name": "inner worlds",
+    "children": [
+    {
+    "name": "intuitive paintings"
+    },
+    {
+    "name": "evolution"
+    },
+    {
+    "name": "shakti"
+    }    
+    ]  
+  }, 
+  {     
+    "name": "about me",
+    "children": [
+    {
+    "name": "CV"
+    },
+    {
+    "name": "Publication",
+    "children": [
+        {
+            "name": "JINST"
+        }
+    ]    
+    },
+    {
+    "name": "Social Media",
+    "children": [
+        {
+            "name": "Instagram"
+        },
+        {
+            "name": "LinkedIn"
+        },
+        {
+            "name": "Facebook"
+        }
+    ]
+    }
+    ]  
+  }     
+ ]
+}
